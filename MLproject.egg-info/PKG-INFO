@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: MLproject
+Version: 0.0.1
+Author: Nitin
+Author-email: nitin.vaidya.phe14@itbhu.ac.in
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
